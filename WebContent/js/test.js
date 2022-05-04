@@ -85,7 +85,7 @@ function mousemouve(e) {
     var e = window.event || e;
      
     var delta = Math.max(-1, Math.min(1, (e.wheelDelta || -e.detail)));
- alert(delta)
+
     wheeling = setTimeout(function() {
         wheeling = undefined;
         if (delta === 1) {
