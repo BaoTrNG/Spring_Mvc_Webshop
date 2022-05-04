@@ -10,15 +10,19 @@
 <%@include file = "css/bootstrap.min.css"%>
 <%@include file = "css/nav.css"%>
 </style>
-
+  
+  
  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
  <script src="https://kit.fontawesome.com/35a849c95f.js" crossorigin="anonymous"></script>
- 
- <title>web vip prooo</title>
+ <link rel = "icon" href = 
+"item/ico.png" 
+        type = "image/x-icon">
+ <title>web vip pro</title>
 </head>
 
 <body>
- <div class="center"> </div>  
+      <div class="center"> </div> 
+  
      <nav class="navbar navbar-expand-lg bg-dark navbar-light d-none d-lg-block" id="templatemo_nav_top">
           <div class="container text-light ">
             <div class="w-54 d-flex justify-content-between">
@@ -36,7 +40,7 @@
             </div>
           </div>
         </nav>
-                  
+              
       
        <nav class="navbar navbar-expand-lg navbar-light shadow">
           <div class="container d-flex justify-content-between align-items-center">
@@ -48,10 +52,10 @@
                         <a class="nav-link  " href="">Home</a>
                     </li>
                     <li class="nav-item ">
-                      <a class="nav-link " href="">About</a>
+                      <a class="nav-link " href="/WEBSHOP/about.htm">About</a>
                    </li>
                    <li class="nav-item">
-                    <a class="nav-link" href="">Shop</a>
+                    <a class="nav-link" href="/WEBSHOP/shop.htm">Shop</a>
                    </li>
                    <li class="nav-item">
                     <a class="nav-link" href="">Contact</a>
@@ -61,7 +65,7 @@
             </div>
           </div>
         </nav>
-    
+   
         <div class="wrapper  ">
           <div class="container  ">
               <div class="slideshow  ">
@@ -97,8 +101,8 @@
                            <div class="Lslide-content">
                                <h2>GIÀY THỂ THAO</h2>
                                <p>Bạn tự ti vì chiều cao khiêm tốn không thể giã nát bảng điểm như các vđv NBA <br>
-                               <br> Hãy đến với chúng tôi,nơi đã làm ra những "dunk thủ" huyền thoại bằng những đôi giày thể thao đã được sơn màu</p>
-                               <p></p>> 
+                               <br> Hãy đến với chúng tôi,nơi đã làm ra những "dunk thủ" huyền thoại bằng những đôi giày thể thao đã được sơn màu
+                             </p>
                                <div class="button">
                                    <a href="#">
                                        <p>More</p>
@@ -142,4 +146,7 @@
 
       <script type="text/javascript" src="js/test.js"></script>
 </body>
+<footer>
+
+</footer>
 </html>
