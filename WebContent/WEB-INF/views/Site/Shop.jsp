@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="css/shop.css">
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/nav.css">
+  
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
  <script src="https://kit.fontawesome.com/35a849c95f.js" crossorigin="anonymous"></script>
  <link rel = "icon" href = "item/ico.png"  type = "image/x-icon">
